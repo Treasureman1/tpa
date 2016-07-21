@@ -31,6 +31,7 @@ namespace GreetingTest
 
         private object GetTestGreetings()
         {
+            //
             throw new NotImplementedException();
         }
     }
